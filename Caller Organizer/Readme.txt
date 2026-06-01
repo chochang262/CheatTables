@@ -5,4 +5,4 @@ and to help with not having to backtrack because I didn't write something down, 
 
 The function Name line is so you can Identify what the caller is for and the program also lets you sort the stack calls by game so that it's not cluttered
 
-FULL DISCLOSURE:: completely vibe coded
+FULL DISCLOSURE:: completely vibe coded in python
