@@ -1,9 +1,12 @@
 Features-
-inf health
+damage multiplier
+inf usable items
+inf health//changed to a no damage code
 inf MP
 max ATB
 max Limit
 XP Multiplier
+inf motorcycle hp/ability 
 Money cheats
 1 dart to win minigame
 -------------------------
