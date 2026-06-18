@@ -7,7 +7,8 @@ max ATB
 max Limit
 XP Multiplier
 inf motorcycle hp/ability 
-Money cheats
+inf gil
+walk through any door that opens(even when closed)
 1 dart to win minigame
 -------------------------
 v3 UPDATE-
