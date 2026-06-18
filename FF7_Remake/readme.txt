@@ -5,11 +5,18 @@ inf health//changed to a no damage code
 inf MP
 max ATB
 max Limit
+Materia XP Multiplier
 XP Multiplier
 inf motorcycle hp/ability 
 inf gil
 walk through any door that opens(even when closed)
 1 dart to win minigame
+Moogle Medal Editor
+-------------------------
+v4 UPDATE-
+-added materia XP multiplier
+-added a method to edit Moogle Medals
+
 -------------------------
 v3 UPDATE-
 -Changed Inf health script to help prevent crash
