@@ -15,12 +15,17 @@ Whack-a-Box Score Multiplier
 Instant open door/Instant push box (No push and hold prompt)
 Pointers for some basic addys
 
-
----
 walk through any door that opens(even when closed)---Can't stress enough to save beforehand! this does allow you to bypass checks that can break and or crash the game
 but it does allow you to access some otherwise unavailable areas and it may let you complete side objectives without fully completeing them.
 So far I have successfully grabbed items behind locked doors and safely returned, but I have also broke the game in story missons using it requiring a reboot
----
+
+NoClip
+Custom TimeScale
+-------------------------
+v6 UPDATE-
+-added custom TimeScale
+-added a much better noclip (Still can't go in undefined areas but allows full No-clipping all objects inside map area)
+
 -------------------------
 v5 UPDATE-
 -added whack-a-Box score Multiplier
