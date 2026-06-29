@@ -1,26 +1,34 @@
-Features+19-
-damage multiplier//re done as a set damage editor
+Features+21-
+damage multiplier
 inf usable items
-inf health//changed to a no damage code//re done for hopefully the last time
+No player damage/heal on hit
 inf MP
 max ATB
 max Limit
 Materia XP Multiplier
 XP Multiplier
 inf motorcycle hp/ability 
-inf gil
+gil editor
+Inf SP (Must at least have enough to purchase, but uses none)
 1 dart to win Darts game
 Whack-a-Box Score Multiplier
-//Moogle Medal Editor//(Repurposed---Any item editor now)
+Squats Multiplier
+item quantity editor 
 Instant open door/Instant push box (No push and hold prompt)
 Pointers for some basic addys
-
-walk through any door that opens(even when closed)---Can't stress enough to save beforehand! this does allow you to bypass checks that can break and or crash the game
-but it does allow you to access some otherwise unavailable areas and it may let you complete side objectives without fully completeing them.
-So far I have successfully grabbed items behind locked doors and safely returned, but I have also broke the game in story missons using it requiring a reboot
-
 NoClip
 Custom TimeScale
+Movement state modifier
+-------------------------
+v7 UPDATE(almost the final update)-
+-Fixed Noclip. Now fully functional. (SAVE BEFORE USE - THIS GAME USES STATES HEAVILY AND YOU WILL LIKELY BREAK THE SAVE WHILE EXPLORING)
+
+-Changed inf gil to gil editor
+
+-added Movement state modifier (Force able to run, force to walk,etc.)
+-added Inf SP
+-added Squats multiplier
+
 -------------------------
 v6 UPDATE-
 -added custom TimeScale
